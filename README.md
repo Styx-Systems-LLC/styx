@@ -93,11 +93,11 @@ Two modes:
 
 ## Integrations
 
-Built on [Chainlink CRE](https://docs.chain.link/chainlink-functions), [Chainlink ACE](https://chain.link/use-cases/compliance), and GLEIF [vLEI](https://www.gleif.org/en/vlei/introducing-the-verifiable-lei-vlei). ERC-3643 compatible for tokenized securities.
+Built on [Chainlink CRE](https://docs.chain.link/cre), [Chainlink ACE](https://docs.chain.link/ace), [Chainlink CCIP](https://docs.chain.link/ccip), and GLEIF [vLEI](https://www.gleif.org/en/vlei/introducing-the-verifiable-lei-vlei). ERC-3643 compatible for tokenized securities. On-chain attestations via CRE Forwarder and CCIP cross-chain messaging.
 
 ## Status
 
-Private pilot. API docs and integration guides available to partners.
+Private pilot on Base Sepolia (testnet). Production deployment targeting Base mainnet. API docs and integration guides available to partners.
 
 ## Get In Touch
 
