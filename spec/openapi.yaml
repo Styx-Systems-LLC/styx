@@ -33,7 +33,7 @@ info:
     url: https://styxsys.com
   license:
     name: BSL 1.1
-    url: https://github.com/styxlabs-ai/styx/blob/main/LICENSE
+    url: https://github.com/Styx-Systems-LLC/styx/blob/main/LICENSE
 
 servers:
   - url: http://localhost:3402
